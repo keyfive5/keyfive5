@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keyfive5
-- 👀 I’m interested in securities and coding
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software development and cloud computing
+- 👀 I’m interested in cybersecurity and CyberArk
+- 🌱 I’m currently learning penetration testing, ethical hacking, digital forensics, threat intelligence, Azure Cloud.
+- 💞️ I’m looking to collaborate on infrastructure, cloud, and cybersecurity projects.
 - 📫 How to reach me ...
 
 <!---
